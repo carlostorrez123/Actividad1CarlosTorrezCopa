@@ -1,0 +1,4 @@
+D:\examen\Computadora\CapaDeDatosDAL\obj\Debug\net7.0\CapaDeDatosDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\examen\Computadora\CapaDeDatosDAL\obj\Debug\net7.0\CapaDeDatosDAL.AssemblyInfoInputs.cache
+D:\examen\Computadora\CapaDeDatosDAL\obj\Debug\net7.0\CapaDeDatosDAL.AssemblyInfo.cs
+D:\examen\Computadora\CapaDeDatosDAL\obj\Debug\net7.0\CapaDeDatosDAL.csproj.CoreCompileInputs.cache
