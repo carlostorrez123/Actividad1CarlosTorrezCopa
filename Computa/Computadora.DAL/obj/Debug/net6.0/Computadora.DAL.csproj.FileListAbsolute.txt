@@ -1,0 +1,12 @@
+D:\remoto\Actividad1CarlosTorrezCopa\Computa\Computadora.DAL\bin\Debug\net6.0\Computadora.DAL.deps.json
+D:\remoto\Actividad1CarlosTorrezCopa\Computa\Computadora.DAL\bin\Debug\net6.0\Computadora.DAL.dll
+D:\remoto\Actividad1CarlosTorrezCopa\Computa\Computadora.DAL\bin\Debug\net6.0\Computadora.DAL.pdb
+D:\remoto\Actividad1CarlosTorrezCopa\Computa\Computadora.DAL\obj\Debug\net6.0\Computadora.DAL.csproj.AssemblyReference.cache
+D:\remoto\Actividad1CarlosTorrezCopa\Computa\Computadora.DAL\obj\Debug\net6.0\Computadora.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\remoto\Actividad1CarlosTorrezCopa\Computa\Computadora.DAL\obj\Debug\net6.0\Computadora.DAL.AssemblyInfoInputs.cache
+D:\remoto\Actividad1CarlosTorrezCopa\Computa\Computadora.DAL\obj\Debug\net6.0\Computadora.DAL.AssemblyInfo.cs
+D:\remoto\Actividad1CarlosTorrezCopa\Computa\Computadora.DAL\obj\Debug\net6.0\Computadora.DAL.csproj.CoreCompileInputs.cache
+D:\remoto\Actividad1CarlosTorrezCopa\Computa\Computadora.DAL\obj\Debug\net6.0\Computadora.DAL.dll
+D:\remoto\Actividad1CarlosTorrezCopa\Computa\Computadora.DAL\obj\Debug\net6.0\refint\Computadora.DAL.dll
+D:\remoto\Actividad1CarlosTorrezCopa\Computa\Computadora.DAL\obj\Debug\net6.0\Computadora.DAL.pdb
+D:\remoto\Actividad1CarlosTorrezCopa\Computa\Computadora.DAL\obj\Debug\net6.0\ref\Computadora.DAL.dll
